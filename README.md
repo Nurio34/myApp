@@ -1,1 +1,1 @@
-Read this
+Studying on Git
